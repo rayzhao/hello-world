@@ -1,4 +1,4 @@
-hello-world
-===========
+ #!/usr/bin/python
+import sys
 
-test
+print "Hello World!"
